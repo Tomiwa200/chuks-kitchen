@@ -24,7 +24,7 @@ This website is strictly frontend only. No backend logic, APIs, authentication, 
 **Google Fonts**
 * Used to match the typography defined in the Figma design.
 
-**Font awesome icons & Material Symbols**
+**Font awesome icons & Material symbols icons**
 * Used to download icons on the webpage to match the icons defined in the figma design.
 
 # Project Structure
@@ -79,7 +79,7 @@ The UI was implemented based on the provided Figma design.
 * No real authetication 
 * I was able to create only six pages
 
-**Improvements(If given more time)**
+## Improvements(If given more time)
 
 I would:
 * Connect to backend API for real-time data

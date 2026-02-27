@@ -52,7 +52,7 @@ Chuks Kitchen/
 * index.html – Landing/Welcome page layout
 * register.html – Customer registration form
 * login.html - User signin form
-* home.html - Homepage layout, it also displays featured food items
+* home.html - Homepage layout, it also displays featured food items in grid layout
 * menu.html – Displays meal listing grid
 * menu-details.html – Shows detailed meal information
 * styles.css – Contains global styles, layout styles, and responsive rules

@@ -1,4 +1,4 @@
-# Chuks Kitchen
+# Project Overview
 
 This project is a functional webpage for a **Food Ordering & Customer Management System** designed for Mr. Chuks' food business under **TrueMinds Innovations Ltd**
 

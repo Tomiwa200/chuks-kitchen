@@ -8,6 +8,8 @@ This project is a functional webpage for a **Food Ordering & Customer Management
 * Browse available meals and
 * View meal details
 
+  [FIGMA Link](https://www.figma.com/design/EIq17AUkUFl4TTvzvqhgZW/Truemind-UI-DESIGN?nodeid=0-1&t=9sm1vitrDiBrg2J1-1)
+
 **Note:**
 This website is strictly frontend only. No backend logic, APIs, authentication, or database integration were included as per project requirements.
 
